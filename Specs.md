@@ -1,3 +1,14 @@
+# Proyecto:  Sistema de Gestión de Medios Básicos
+
+
+# Ejecutores:
+
+## Líder: 
+
+## Integrantes del equipo:
+- Diamis Alfonso Pérez
+
+
 ## 1.Introducción
 
 **1.1 Propósito del Documento**
